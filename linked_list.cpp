@@ -46,6 +46,8 @@ int main(){
     push(&head , 3);
     push(&head , 4);
     push(&head , 5);
+    push(&head , 10);
+    push(&head , 12);
     //insertafter(head->next, 8);
     printlist(head);
     return 0;
